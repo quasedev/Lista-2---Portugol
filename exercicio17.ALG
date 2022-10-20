@@ -1,25 +1,19 @@
-Algoritmo "LISTA 2 - EXERCICIO 7"
-//ATIVIDADE AVALIATIVA - ALGORITMOS E ESTRUTURA DE DADOS
-//Nome: Leonardo Henrique Benatti e Souza
-//RA: 5159286
-//Atividade: Lista de ExercÌcios 2 - ExercÌcio 7
-
 
 Var
 // area, latas, volume em litros e final
 a, l , v , f:real
 
 Inicio
-// Inserindo a ·rea desejada e j· tendo os valores em litros e de custo
-//prÈ determinados, È feito o c·lculo de latas necess·rias e o custo.
-escreval("Informe a ·rea em m2: ")
+// Inserindo a √°rea desejada e j√° tendo os valores em litros e de custo
+//pr√© determinados, √© feito o c√°lculo de latas necess√°rias e o custo.
+escreval("Informe a √°rea em m2: ")
 leia(a)
 
 l <- a / 5
 v <- l * 10
 f <- l * 120
 
-escreval(" A quantidade de latas necess·rias ser·:", l, " e o valor ser·:", f)
+escreval(" A quantidade de latas necess√°rias ser√°:", l, " e o valor ser√°:", f)
 
 
 

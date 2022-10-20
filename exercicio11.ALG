@@ -1,16 +1,12 @@
-Algoritmo "LISTA 2 - EXERCICIO 1"
-//ATIVIDADE AVALIATIVA - ALGORITMOS E ESTRUTURA DE DADOS
-//Nome: Leonardo Henrique Benatti e Souza
-//RA: 5159286
-//Atividade: Lista de ExercÌcios 2 - ExercÌcio 1
+
 
 Var
 //Area, basemaior, base menor e altura.
 A, bmaior, bmenor, H :Real
 
 Inicio
-// Calcula-se a ·rea inserindo os valores das vari·vies e realizando o c·lculo
-// na vari·vel A.
+// Calcula-se a √°rea inserindo os valores das vari√°vies e realizando o c√°lculo
+// na vari√°vel A.
 escreval("Digite a base maior:")
 leia(bmaior)
 escreval("Digite a base menor:")
@@ -18,6 +14,6 @@ leia(bmenor)
 escreval("Digite a altura:")
 leia(H)
 A<- (((bmaior + bmenor)) * H) / 2)
-escreval("A ·rea do trapÈzio ser· = ",A)
+escreval("A √°rea do trap√©zio ser√° = ",A)
 
 Fimalgoritmo

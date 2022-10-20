@@ -1,20 +1,15 @@
-Algoritmo "LISTA 2 - EXERCICIO 5"
-//ATIVIDADE AVALIATIVA - ALGORITMOS E ESTRUTURA DE DADOS
-//Nome: Leonardo Henrique Benatti e Souza
-//RA: 5159286
-//Atividade: Lista de Exercícios 2 - Exercício 5
 
 Var
-//variáveis contendo os valores de entrada e as operações matemáticas.
+//variÃ¡veis contendo os valores de entrada e as operaÃ§Ãµes matemÃ¡ticas.
 n1, n2, v1, v2, v4, v5, v6: REAL
 
 Inicio
-// Inseridos os valores, são feitas operações matemáticas.
-// número elevado, multiplicação, divisão seguindo de adição,
-// diferença, negativo e inverso.
-escreval("Informe o primeiro número:")
+// Inseridos os valores, sÃ£o feitas operaÃ§Ãµes matemÃ¡ticas.
+// nÃºmero elevado, multiplicaÃ§Ã£o, divisÃ£o seguindo de adiÃ§Ã£o,
+// diferenÃ§a, negativo e inverso.
+escreval("Informe o primeiro nÃºmero:")
 leia(n1)
-escreval("Informe o segundo número:")
+escreval("Informe o segundo nÃºmero:")
 leia(n2)
 v1 <-n1 ^ n2
 v2 <-n1 * n2

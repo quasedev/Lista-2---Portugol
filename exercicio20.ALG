@@ -1,8 +1,4 @@
-Algoritmo "LISTA 2 - EXERCICIO 10"
-//ATIVIDADE AVALIATIVA - ALGORITMOS E ESTRUTURA DE DADOS
-//Nome: Leonardo Henrique Benatti e Souza
-//RA: 5159286
-//Atividade: Lista de Exercícios 2 - Exercício 10
+
 
 Var
 //valor da venda, desconto, resultado com desconto,
